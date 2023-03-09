@@ -1,0 +1,6 @@
+[submodule "GPTQ-for-LLaMa"]
+	path = GPTQ-for-LLaMa
+	url = https://github.com/qwopqwop200/GPTQ-for-LLaMa
+[submodule "transformers"]
+	path = transformers
+	url = https://github.com/zphang/transformers
